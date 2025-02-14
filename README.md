@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ezean Michael  
+### Hi there! 👋 I'm Ezeana Michael  
 🚀 **AI & LLM Consultant | Python Backend Developer | AI Automation & Business Growth Strategist**  
 
 I specialize in developing AI-powered solutions and backend applications that help businesses automate workflows, improve efficiency, and drive revenue. With expertise in Large Language Models (LLMs), Python backend development, and AI consulting, I assist individuals and businesses in discovering the full potential of artificial intelligence.
