@@ -1,22 +1,21 @@
 ### Hi there! 👋 I'm Ezeana Michael  
-🚀 **AI & LLM Consultant | Python Backend Developer | AI Automation & Business Growth Strategist**  
+🚀 **Backend Developer(.NET core, Python) | AI & LLM Engineer | AI Automation & Business Growth Strategist**  
 
-I specialize in developing AI-powered solutions and backend applications that help businesses automate workflows, improve efficiency, and drive revenue. With expertise in Large Language Models (LLMs), Python backend development, and AI consulting, I assist individuals and businesses in discovering the full potential of artificial intelligence.
+I specialize in developing AI-powered solutions and backend applications that help businesses automate workflows, improve efficiency, and drive revenue. With expertise in Large Language Models (LLMs), backend development(python and c#), and AI consulting, I help individuals and businesses unlock the full potential of artificial intelligence.
 
 ---
 
 ### 🚀 What I Do:
-✅ **AI & LLM Consulting** – Implementing AI-driven automation, chatbots, and data analysis tools for businesses.  
-✅ **Backend Development** – Designing robust and scalable APIs using FastAPI, Django, and Flask for AI-driven applications.  
-✅ **AI Training & Coaching** – Teaching professionals and businesses how to leverage AI for automation and profitability.  
+✅ **AI & LLM Engineer** – Implementing AI-driven automation, chatbots, and data analysis tools for businesses.  
+✅ **Backend Development** – Designing robust and scalable APIs using FastAPI, Django, and Flask, .NET for applications.  
 
 ---
 
 ### 🔧 Tech Stack & Tools:
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** FastAPI, Django, Flask  
+- **Languages:** Python, JavaScript, SQL , GO, C#
+- **Frameworks:** FastAPI, Django, Flask  , .NET Core
 - **AI & ML:** TensorFlow, PyTorch, OpenAI API, LangChain  
-- **Databases:** PostgreSQL, MySQL 
+- **Databases:** PostgreSQL, MySQL , SQlite
 - **DevOps & Cloud:** Docker, AWS, GCP, CI/CD  
 - **Version Control:** Git, GitHub
 
