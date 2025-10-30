@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Ezeana Michael  
-🚀 **Backend Developer(.NET core, Python) | AI & LLM Engineer | AI Automation & Business Growth Strategist**  
+🚀 **Backend Developer(.NET core, Python) | AI & LLM Engineer | AI Automation & Business Growth Strategist | Technical Writer(API Documentation)**  
 
 I specialize in developing AI-powered solutions and backend applications that help businesses automate workflows, improve efficiency, and drive revenue. With expertise in Large Language Models (LLMs), backend development(python and c#), and AI consulting, I help individuals and businesses unlock the full potential of artificial intelligence.
 
